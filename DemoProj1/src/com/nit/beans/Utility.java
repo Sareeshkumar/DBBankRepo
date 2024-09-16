@@ -22,6 +22,9 @@ public class Utility {
 	
 	public void messageOtp() {
 		System.out.println("OTP received from DEV1");
+		System.out.println("Yes I received");
 	}
+	
+	
 
 }

@@ -17,8 +17,10 @@ public class Utility {
 		System.out.println("utility m1 method creatd....1234:");
   
        System.out.println("12345abcd");
-
-
+	}
+	
+	public void F1() {
+		System.out.println("f1()");
 	}
 
 }

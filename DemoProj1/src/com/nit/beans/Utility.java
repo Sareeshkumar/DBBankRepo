@@ -8,7 +8,7 @@ public class Utility {
 	}
 	public Date getSysDate() {
 		
-		return new Date(0);
+		return new Date(0, 0, 0);
 	}
 
 }

@@ -17,8 +17,7 @@ public class Utility {
 		System.out.println("utility m1 method creatd....1234:");
   
        System.out.println("12345abcd");
-       System.out.println("Hi Varun");
-       System.out.println("Hi Advik");
+       
 
 
 	}

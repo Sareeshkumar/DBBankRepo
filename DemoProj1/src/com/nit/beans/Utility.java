@@ -25,6 +25,11 @@ public class Utility {
 		System.out.println("Yes I received");
 	}
 	
+	public void m3() {
+		
+		System.out.println("m3()");
+	}
+	
 	
 
 }

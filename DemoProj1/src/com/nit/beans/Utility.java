@@ -35,6 +35,14 @@ public class Utility {
 		System.out.println("Yes I received");
 	}
 	
+	public void m3() {
+		
+		System.out.println("m3()");
+	}
 	
+	public void m5() {
+		
+		System.out.println("m5");
+	}
 
 }

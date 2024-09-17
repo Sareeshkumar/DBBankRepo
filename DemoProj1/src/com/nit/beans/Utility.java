@@ -30,6 +30,9 @@ public class Utility {
 		System.out.println("m3()");
 	}
 	
-	
+	public void m5() {
+		
+		System.out.println("m5");
+	}
 
 }
